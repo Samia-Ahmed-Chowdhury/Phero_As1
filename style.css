@@ -37,8 +37,8 @@ li {
     align-items: center;
 }
 
-.hero_left_div {
-    width: 52%;
+.hero_right_div {
+    width: 46%;
     text-align: right;
     padding: 0rem 8rem 0 0;
 }
@@ -187,7 +187,7 @@ li {
 
 .plans_section .plans_cat {
     display: flex;
-    margin: 70px;
+    margin:30px 70px;
 }
 
 .plans_section .plans {
@@ -223,10 +223,11 @@ li {
     background-image: url("images/gradient2.png"), url("images/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0 230px;
 }
 
 .cta_text_div {
-    padding: 90px 170px;
+    padding: 45px ;
     width: 70%;
 }
 
@@ -307,6 +308,7 @@ footer .footer_div .footer_left_side h3 {
     font-size: 25px;
     line-height: 29px;
     color: #FFFFFF;
+    margin-bottom: 28px;
 }
 
 footer .footer_div .footer_left_side form input[type=text] {
